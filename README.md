@@ -1,8 +1,8 @@
-# UM Ecash Cashu
-ditunjukan untuk usaha mikro yang mau menggunakan uang elektronik(Electronic cash) sebagai alat pembayaran atas usahanya. keuntungan yang didapat dari penggunaan Ecash adalah 
+# Uang electronic untuk usaha mikro, kecil, dan menengah
+ditunjukan untuk usaha mikro yang mau menggunakan uang elektronik(Ecash) sebagai alat pembayaran atas usahanya. keuntungan yang didapatkan dari penggunaan Ecash adalah 
 ##### cepat - pribadi - aman - sederhana - No KYC
 
-Uang yang kita pakai di mobile banking atau e-wallet adalah uang yang disimpan di server bank. Kita hanya melihat angka saldo — sebenarnya bank yang memegang uangnya.
+Uang yang kita pakai di mobile banking atau e-wallet adalah uang yang disimpan di server bank, dicetak dari angin tanpa ada nilai yang mendasarinya sehingga nilainya selalu turun setiap tahun terhadap barang dan jasa. Uang yang baik adalah uang yang kita gunakan sehari-hari tanpa ada paksaan dan campur tangan pihak lain.
 
 Sedangkan eCash seperti Cashu adalah token Bitcoin anonim yang disimpan langsung di perangkat kita, seperti uang tunai digital. Kita tidak perlu bank, akun, atau izin siapa pun untuk mengirimnya, kita hanya perlu percaya pada penerbit token. Transaksinya langsung, cepat, dan privat.
 
